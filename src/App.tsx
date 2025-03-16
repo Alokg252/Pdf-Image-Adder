@@ -69,7 +69,7 @@ const App: React.FC = () => {
           continue;
         }
 
-        const page = pdfDoc.addPage();
+        const page = pdfDoc.addPage([image.width, image.height]);
         const { width, height } = page.getSize();
         const scaledDims = image.scale(0.8);
 
