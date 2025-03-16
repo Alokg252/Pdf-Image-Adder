@@ -1,8 +1,8 @@
 {
   "name": "vite-react-typescript-starter",
   "private": true,
-  "homepage": "https://alokg252.github.io/Pdf-Image-Adder",
-  "version": "0.0.0",
+  "homepage": "https://alokg252.github.io/Pdf-Image-Adder/",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
